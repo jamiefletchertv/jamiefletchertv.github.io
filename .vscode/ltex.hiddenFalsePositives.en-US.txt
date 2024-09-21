@@ -1,0 +1,6 @@
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qjamiefletchertv.github.io\numbrella site/repo for hosting my org as per\\E$"}
+{"rule":"GITHUB","sentence":"^\\Qjamiefletchertv.github.io\numbrella site/repo for hosting my org as per\\E$"}
+{"rule":"GITHUB","sentence":"^\\QBranch /jamiefletcher.dev of this repo (jamiefletchertv.github.io) is used for Github pages uses the custom domain jamiefletcher.dev.\\E$"}
+{"rule":"GITHUB","sentence":"^\\QBranch /jamiefletcher.dev of this repo (jamiefletchertv.github.io) is used for github pages uses the custom domain jamiefletcher.dev.\\E$"}
+{"rule":"GITHUB","sentence":"^\\QThis means any repositories with gh-pages enabled (and no domain set) can be accessed via my github organization jamiefletchertv.github.io (currently set with the jamiefletcher.dev domain).\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qjamiefletchertv.github.io\nThis ghithub umbrella site/repo for hosting my org as per\\E$"}
